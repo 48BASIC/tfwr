@@ -1,7 +1,7 @@
 # tfwr
 **solutions for the game 'the farmer was replaced' at v.17,feb,2026**
 
-### index
+### readme
 *whats is available*
 
 ### fn_
@@ -12,8 +12,6 @@
 
 ### ldr_
 *leaderboard run*
-
-## index
 
 ```
 function_goto (nowrarp)
