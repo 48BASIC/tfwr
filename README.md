@@ -36,8 +36,8 @@ import: fn_ms
 usage: fn_ms.h() (horizontal)
        fn_ms.v() (vertical)
 
-function_till_decide
-rotates the ground bit (tilled, not tilled)
-import: fn_td
+function_till_grass
+tilles the ground if its grass
+import: fn_tg
 usage: fn_td.do()
 ```
