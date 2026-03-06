@@ -29,7 +29,8 @@ usage: fn_wgoto2.do(x,y)
 function_single_spawn by github.com/48BASIC
 spawns a row of drones from the main unit
 import: fn_ss
-usage: fn_ss.h() (horizontal) , fn_ss.v() (vertical)
+usage: fn_ss.h() (horizontal)
+       fn_ss.v() (vertical)
 
 function_multi_spawn by github.com/48BASIC
 spawns a row of drones from two different drones in opposite directions
