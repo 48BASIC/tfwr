@@ -2,7 +2,7 @@
 **solutions for the game 'the farmer was replaced' at v.17,feb,2026**
 
 ### index
-*alphabetical listing of everything available*
+*whats is available*
 
 ### fn_
 *functions, helpers, libraries*
