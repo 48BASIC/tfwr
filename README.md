@@ -37,10 +37,10 @@ import fn_ms
 usage: fn_ms.h() (horizontal)  
        fn_ms.v() (vertical)  
 
-**function_till_decide by github.com/48BASIC
-rotates the ground bit (tilled, not tilled)
-import fn_td
-usage: fn_td.do()
+**function_till_decide by github.com/48BASIC  
+rotates the ground bit (tilled, not tilled)  
+import fn_td  
+usage: fn_td.do()  
 
 usage: fn_td.do()
 
