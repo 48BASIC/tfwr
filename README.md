@@ -24,19 +24,19 @@ reaches a cell in the shortest amount of movements (wrapping)
 import: fn_wgoto2
 usage: fn_wgoto2.do(x,y)
 
-function_single_spawn by
+function_single_spawn
 spawns a row of drones from the main unit
 import: fn_ss
 usage: fn_ss.h() (horizontal)
        fn_ss.v() (vertical)
 
-function_multi_spawn by
+function_multi_spawn
 spawns a row of drones from two different drones in opposite directions
 import: fn_ms
 usage: fn_ms.h() (horizontal)
        fn_ms.v() (vertical)
 
-function_till_decide by
+function_till_decide
 rotates the ground bit (tilled, not tilled)
 import: fn_td
 usage: fn_td.do()
