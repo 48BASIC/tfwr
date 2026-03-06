@@ -13,8 +13,6 @@
 ### ldr_
 *leaderboard run*
 
----
-
 ## index
 
 ```
