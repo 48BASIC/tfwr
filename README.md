@@ -21,7 +21,7 @@ reaches a cell, never wrapping the field
 import: fn_goto
 usage: fn_goto.do()
 
-function_wgoto2 (v2.0)(wrap)
+function_wgoto2 (wrap)
 reaches a cell in the shortest amount of movements (wrapping)
 import: fn_wgoto2
 usage: fn_wgoto2.do(x,y)
