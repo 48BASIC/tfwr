@@ -15,6 +15,8 @@
 
 ---
 
+## index
+
 ```
 function_goto (nowrarp) by github.com/48BASIC
 reaches a cell, never wrapping the field
